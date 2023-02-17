@@ -3,8 +3,10 @@
 int main()
     int a, b, c;
 
-    printf("Enter a time in seconds: %d ", a)
+    {printf("Enter a time in seconds: %d ", a);
     scanf("%d", a)
+    }
 
-    printf("Enter the fps: %d ", b)
+    {printf("Enter the fps: %d ", b);
     scanf("%d", b)
+    }
